@@ -1,14 +1,33 @@
 # 💫 About Me:
- I’m currently working on DevOps and Cloud projects using AWS.<br><br> I’m looking to collaborate on DevOps automation and cloud infrastructure projects.<br><br> I’m looking for help with Kubernetes, Terraform, and advanced CI/CD pipelines.<br><br> I’m currently learning Docker, Kubernetes, Jenkins, and AWS Cloud.<br><br>Ask me about Linux commands, Git, GitHub, and DevOps basics.<br><br> I love automating things and turning manual work into scripts.
-
-
+### 🚀 About Me<br><br>- 🌱 DevOps Engineer focused on **Cloud Automation & Infrastructure**<br>- ☁️ - ☁️ Hands-on experience with **AWS, Terraform, Docker, Kubernetes****<br>- 🔧 Strong in **CI/CD using Jenkins**<br>- 📊 Monitoring using **Prometheus & Grafana**<br>- 🐧 Linux & Shell Scripting enthusiast<br>- 🎯 Currently looking for **Entry-Level DevOps & Cloud Engineer roles**<br><br>---
+-------
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kalvakota-divakar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalvakotadivakar@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalvakota-divakar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalvakotadivakar@gmail.com) 
+---
+### 🛠️ DevOps Tools & Technologies
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Divakarkalvakota&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Divakarkalvakota&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Divakarkalvakota&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Divakarkalvakota&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Divakarkalvakota&icon=0&color=0)](https://visitcount.itsvg.in)
+ ## 🏢 Project Portfolio
+
+Most of my Cloud & DevOps projects are maintained in the Kalvakota-Divakar GitHub Organization.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
