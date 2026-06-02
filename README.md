@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Divakar Kalvakota</h1>
+
 ### 🚀 About Me<br><br>- 🌱 DevOps Engineer focused on **Cloud Automation & Infrastructure**<br>- ☁️ - ☁️ Hands-on experience with **AWS, Terraform, Docker, Kubernetes****<br>- 🔧 Strong in **CI/CD using Jenkins**<br>- 📊 Monitoring using **Prometheus & Grafana**<br>- 🐧 Linux & Shell Scripting enthusiast<br>- 🎯 Currently looking for **Entry-Level DevOps & Cloud Engineer roles**<br><br>---
 -------
 ## 🌐 Socials:
